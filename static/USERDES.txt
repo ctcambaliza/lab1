@@ -1,0 +1,45 @@
+PARENTS: 
+REMOVE CHOOSING SCHOOL ---- done
+MESSAGE ICON TO SEND A MESSAGE TO THE TEACHER BESIDE THE STUDENTS NAME---- done
+
+HOME BUTTONS
+=====
+USERNAME: monty_macalino
+	  zild_benitez
+Password: mayonnaise
+	  4ofspades
+-------
+TEACHER:
+INBOX FOR THE TEACHER
+PRESENT WILL BE DEFAULT
+MORE STUDENTS PER SECTION ==  done
+
+FOR ITERATION: 
+EDIT REVIEW
+
+
+USERNAME: juan_delacruz01	
+	  pedro_penduko05
+password: pinoyako01
+	  proudpinoy15
+---
+LOG OUT TICK
+ERROR FOR WRONG PASSWORD OR USERNAME === done
+-------------
+STUDENT CODES
+2017lma112199 -Leryelle Adiao
+2018jmb121300 - Jesus Bermudo
+2019ypmd010700 - Yobhel Dionisio
+2016jabc031900 - Caridad
+2018crtc040500 - Cambaliza
+2018agst062898 - Tingson
+2016zlpc071999 - Chavez
+2018rstc071899 - Cisnero
+2018emg052098 - Garcia
+2018dbe091599 - Eler
+--------
+PARENTS
+ROWIN : 2 parent
+yobhel: 2 parent , 1 teacher
+me : 2 teacher 1 parent
+
